@@ -24,10 +24,10 @@ for model in st:
 				print(posi)
 				print(ddG)
 				
-lines = plt.plot(posi, ddG, posi, dG, 'o')  
+lines = plt.plot(posi, ddG)  
 
 plt.setp(lines[0], linewidth=1)  
-plt.setp(lines[1], linewidth=2)  
+
  
 plt.show()
 				
