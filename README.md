@@ -10,5 +10,5 @@
   calculating the deltaG of the single X amino acid to Alanine, considered as the deltaG of between the unfolded chains of the original and the sequence with mutation.
   
 #basic_setup.py
-  the main differences are excluding all the print command and including import.os.
+  the main differences from the original are excluding all the print command and including import.os.
   it is used as the fundation of the three script above.
